@@ -1,0 +1,10 @@
+{
+  "name": "MoodTune",
+  "description": "AI-Powered Facial Emotion Recognition & Music Recommendation System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
